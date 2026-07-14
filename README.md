@@ -1,4 +1,4 @@
-# Hệ thống Giám sát Ô tô - FSoft Automotive Telemetry Dashboard
+# Hệ thống Giám sát Ô tô - Automotive Telemetry Dashboard
 
 Dự án mô phỏng hệ thống thu thập dữ liệu từ các cảm biến trên ô tô (Tốc độ, Nhiệt độ động cơ) và đưa ra cảnh báo an toàn thời gian thực. Dự án áp dụng các kiến thức cốt lõi của Lập trình hướng đối tượng (OOP) C++.
 
